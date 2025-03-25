@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        LinearEquation equation = new LinearEquation(); // Perbaikan nama kelas
+        LinearEquation equation = new LinearEquation();
 
         // Menginput nilai
         System.out.print("Masukkan a: ");
